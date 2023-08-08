@@ -1,0 +1,11 @@
+# ninja log v5
+6	213	7129456337661176	CMakeFiles/CalcLibrary.dir/CalcLib.cpp.obj	9344e04c6e0d64ef
+6	566	7129456710445699	CMakeFiles/CalcLibrary.dir/main.cpp.obj	680627402087719
+567	731	7129456712036067	CalcLibrary.exe	adbd560751d986a7
+6	1073	7132163251098444	CMakeFiles/CalcLibrary.dir/CalcLib.cpp.obj	9d08994e7dd356a7
+32	2414	7132163269874591	CMakeFiles/CalcLibrary.dir/main.cpp.obj	be22078a0a328020
+2414	3443	7132163279670275	CalcLibrary.exe	adbd560751d986a7
+7	1855	7132163418371052	CMakeFiles/CalcLibrary.dir/main.cpp.obj	be22078a0a328020
+1857	3794	7132163437609145	CalcLibrary.exe	adbd560751d986a7
+5	1946	7132163526709615	CMakeFiles/CalcLibrary.dir/main.cpp.obj	be22078a0a328020
+1948	4667	7132163553887494	CalcLibrary.exe	adbd560751d986a7
